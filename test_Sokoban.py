@@ -1,7 +1,7 @@
 # test_project.py
 
 import os
-from project import get_player_pos, find_target, open_level, level_global, target_pos
+from Sokoban import get_player_pos, find_target, open_level, level_global, target_pos
 
 def test_get_player_pos():
     # Set up the board
