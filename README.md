@@ -1,5 +1,5 @@
 # SOKOBAN (CLI) by Filippo Casola
-### Video Demo: [![Placeholder sokoban video](https://img.youtube.com/vi/Kg-HHXuOBlw/0.jpg)](https://www.youtube.com/watch?v=Kg-HHXuOBlw "Placeholder sokoban video")
+### Video Demo: [![sokoban video](https://img.youtube.com/vi/2nOiFd54rn4/0.jpg)](https://www.youtube.com/watch?v=2nOiFd54rn4 "sokoban video")
 ## Description of the project
 A command-line version of the classic Sokoban puzzle game where the player pushes boxes onto target locations to win.
 
